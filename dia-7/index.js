@@ -1,5 +1,5 @@
 let condition = true;
-
+/*
 while (condition) {
     let idade = Number(prompt('Insira sua idade: '));
     if (idade < 18) {
@@ -9,3 +9,5 @@ while (condition) {
 
 }
 console.log('Acabou o while');
+*/
+
